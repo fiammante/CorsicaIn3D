@@ -9,7 +9,8 @@ This code was developed to verify that the mountains visible from my home in Cag
 ![View from Cagnes-sur-Mer](./images/corse_december.jpeg)
 *View of Corsica from Cagnes-sur-Mer in December - The Corsican mountains are visible on the horizon*
 
-![Profile view of Plotly 3D surface screen capture from code below](./images/Capture3.png)
+![Profile view of Plotly 3D surface screen capture from code below](./images/mesh_with_flyover.png)
+
 
 The distance between Cagnes-sur-Mer and the eastern coast of Corsica is approximately **170-200 km**, making Corsica visible only under exceptional weather conditions (very clear air, low humidity). The visible peaks likely include Monte Cinto (2706m), the highest point in Corsica.
 
